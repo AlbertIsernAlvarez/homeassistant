@@ -15,6 +15,14 @@ To get started with using these blueprints and automations, follow these steps:
 3. Paste the code into the Home Assistant UI's configuration editor or YAML configuration file.
 4. Restart Home Assistant to apply the changes.
 
+## Blueprints
+
+### IKEA On/Off Switch General Use
+
+This blueprint allows you to use an IKEA On/Off switch to turn on and off any entity in Home Assistant.
+
+[View Blueprint](blueprints/ikea/Ikea-on-off-switch-general-use.yaml)
+
 ## Contributing
 
 Contributions are welcome! If you have a blueprint or automation you'd like to share, feel free to create a pull request.
@@ -22,4 +30,3 @@ Contributions are welcome! If you have a blueprint or automation you'd like to s
 ## License
 
 This repository is licensed under the MIT License.
-
